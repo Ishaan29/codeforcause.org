@@ -30,7 +30,7 @@ function HomeView() {
       <Events id="events" />
       <MentorExperience experience={experience} />
       <StandForSection id="about" />
-      <Courses />
+      {/* <Courses /> */}
       {/* <Testimonials students={students} /> */}
       <Team id="team" mentors={mentors} />
       <WatchOurVideoView />
