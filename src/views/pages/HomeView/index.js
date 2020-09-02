@@ -12,7 +12,7 @@ import MentorExperience from './MentorExperience';
 import WatchOurVideoView from './WatchVideos';
 import { experience, /*students,*/ mentors } from './HomeViewData';
 
-import Courses from './Courses';
+// import Courses from './Courses';
 
 // import Testimonials from './Testimonials/index';
 
